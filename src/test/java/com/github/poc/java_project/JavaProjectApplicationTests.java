@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-#Updated file comments	
+//Updated comments for this file
 class JavaProjectApplicationTests {
 
 	@Test
