@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 
-//Commented	
+//Commented the code
 public class JavaProjectApplication {
 
 	//Commented this code
